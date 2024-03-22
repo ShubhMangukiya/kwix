@@ -73,7 +73,7 @@ const prefillDemoData = () => {
   data.value = {
     n: "Shubh Mangukiya",
     d: "I'm student of Parul University",
-    i: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D03AQEnIaHVnx4CQg%2Fprofile-displayphoto-shrink_800_800%2F0%2F1706432114697%3Fe%3D2147483647%26v%3Dbeta%26t%3Dbj1E4YMxCVBEVgrcpJINlTir69nmfH2eca1zdUO3NiM&tbnid=REySzyo0fL-BCM&vet=12ahUKEwiVmKDs6YeFAxXjyDgGHaLFCFQQMygAegQIARBG..i&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshubh-mangukiya-1702611b4&docid=WCNwPWJ2WwYQbM&w=800&h=800&q=shubh%20mangukiya&ved=2ahUKEwiVmKDs6YeFAxXjyDgGHaLFCFQQMygAegQIARBG",
+    i: "https://media.licdn.com/dms/image/D4D03AQEnIaHVnx4CQg/profile-displayphoto-shrink_800_800/0/1706432114697?e=2147483647&v=beta&t=bj1E4YMxCVBEVgrcpJINlTir69nmfH2eca1zdUO3NiM",
     f: "https://www.facebook.com/shubh.mangukiya.11",
     t: "https://twitter.com/shubhmangukiya_",
     ig: "https://www.instagram.com/shubhmangukiya_",
