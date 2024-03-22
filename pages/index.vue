@@ -71,23 +71,23 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    n: "Shubh Mangukiya",
+    d: "I'm student of Parul University",
+    i: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D03AQEnIaHVnx4CQg%2Fprofile-displayphoto-shrink_800_800%2F0%2F1706432114697%3Fe%3D2147483647%26v%3Dbeta%26t%3Dbj1E4YMxCVBEVgrcpJINlTir69nmfH2eca1zdUO3NiM&tbnid=REySzyo0fL-BCM&vet=12ahUKEwiVmKDs6YeFAxXjyDgGHaLFCFQQMygAegQIARBG..i&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshubh-mangukiya-1702611b4&docid=WCNwPWJ2WwYQbM&w=800&h=800&q=shubh%20mangukiya&ved=2ahUKEwiVmKDs6YeFAxXjyDgGHaLFCFQQMygAegQIARBG",
+    f: "https://www.facebook.com/shubh.mangukiya.11",
+    t: "https://twitter.com/shubhmangukiya_",
+    ig: "https://www.instagram.com/shubhmangukiya_",
+    e: "shubh.mangukiya01@gmail.com",
+    gh: "https://github.com/ShubhMangukiya",
+    tg: "https://t.me/shubhmangukiya",
+    w: "+919099331142",
+    y: "https://youtube.com/",
+    l: "https://linkedin.com/in/shubhmangukiya",
     ls: [
       {
         l: "My Website",
         i: "ph:globe-duotone",
-        u: "https://example.com",
+        u: "https://placea.in",
       },
       {
         l: "Amazon wishlist",
